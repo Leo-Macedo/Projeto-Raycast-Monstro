@@ -3,7 +3,8 @@
 Atividade solicitada em aula com o intuito de estudarmos a função "Raycast"
 
 ## Sobre o Jogo:
-![image](https://github.com/Leo-Macedo/Projeto-Raycast-Monstro/assets/127630556/70b3507f-118e-46d1-9146-1664679b3fad)
+![image](https://github.com/Leo-Macedo/Projeto-Raycast-Monstro/assets/127630556/b108002c-0e83-419e-9134-d5072066c566)
+
 
 Dentro do jogo entramos no papel de um personagem que tem como objetivo procurar e colhetar os papéis que estão espalhados pelo mapa para fugir de uma terrível criatura que nos persegue durante a jogatina, e para que você consiga escapar, devemos colhetar 7 papéis.
 
@@ -36,7 +37,10 @@ Também nesse script fizemos um simples sistema para a imagem do 'corra' aparece
 
 # GamePlay do Jogo (ligue o som para experiência completa)
 
-https://github.com/Leo-Macedo/Projeto-Raycast-Monstro/assets/127630556/3ae89637-370b-49d2-adc1-38675dbc6f1b
+
+https://github.com/Leo-Macedo/Projeto-Raycast-Monstro/assets/127630556/70a51e15-61af-42a7-97f0-4bd7fb4a30a5
+
+
 
 
 
