@@ -37,14 +37,7 @@ Já na função "Prefab", toda vez que o "Raycast" idêntificasse os papéis, ir
 ### Outras Funções
 Também nesse script fizemos um simples sistema para a imagem do 'corra' aparecer por 7 segundos ao iniciar, travar o cursor no centro da tela e quando a contagem de papel chegar a 7 ativa a tela de final do jogo e também libera o cursor.
 
-# GamePlay do Jogo (ligue o som para experiência completa)
-
-
-https://github.com/Leo-Macedo/Projeto-Raycast-Monstro/assets/127630556/70a51e15-61af-42a7-97f0-4bd7fb4a30a5
-
-
-
-
-
+# GamePlay do Jogo no Youtube (ligue o som para experiência completa)
+https://youtu.be/WPWk5kYMhwo
 
 
