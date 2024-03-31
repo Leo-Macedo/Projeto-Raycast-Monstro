@@ -7,7 +7,6 @@ https://drive.google.com/drive/folders/1E3jtU-KwTf1VjhuphV_H6801X_LKi6zC?usp=sha
 ## Sobre o Jogo:
 ![image](https://github.com/Leo-Macedo/Projeto-Raycast-Monstro/assets/127630556/b108002c-0e83-419e-9134-d5072066c566)
 
-
 Dentro do jogo entramos no papel de um personagem que tem como objetivo procurar e colhetar os papéis que estão espalhados pelo mapa para fugir de uma terrível criatura que nos persegue durante a jogatina, e para que você consiga escapar, devemos colhetar 7 papéis.
 
 ## Construção do Jogo:
@@ -39,5 +38,14 @@ Também nesse script fizemos um simples sistema para a imagem do 'corra' aparece
 
 # GamePlay do Jogo no Youtube (ligue o som para experiência completa)
 https://youtu.be/WPWk5kYMhwo
+
+<br> 
+
+### Feito por: Davi e Leonardo Macedo
+![DavieLeo](https://github.com/Leo-Macedo/Projeto-Raycast-Monstro/assets/127548240/c2d5d0be-32b2-4af9-964c-84ebcc0b9235)
+
+
+
+
 
 
