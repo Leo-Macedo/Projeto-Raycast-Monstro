@@ -39,10 +39,6 @@ Também nesse script fizemos um simples sistema para a imagem do 'corra' aparece
 # GamePlay do Jogo no Youtube (ligue o som para experiência completa)
 https://youtu.be/WPWk5kYMhwo
 
-<br> 
-
-### Feito por: Davi e Leonardo Macedo
-![DavieLeo](https://github.com/Leo-Macedo/Projeto-Raycast-Monstro/assets/127548240/c2d5d0be-32b2-4af9-964c-84ebcc0b9235)
 
 
 
